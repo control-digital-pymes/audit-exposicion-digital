@@ -125,8 +125,12 @@ Este repositorio se construye en abierto, capa a capa, validando cada una con ca
 
 ## Sobre el autor
 
-*Sección pendiente. Perfil: técnico independiente especializado en exposición digital y seguridad para pymes, con base en análisis forense y peritaje informático.*
+**Dragos Andrei** — técnico independiente en ciberseguridad y auditoría digital para pymes y autónomos, con base en Málaga (España). Formación en análisis forense, peritaje informático y filosofía.
 
+Este repositorio es la vitrina técnica de **Control Digital Pymes**: la metodología abierta detrás del servicio.
+
+- 🌐 Web: **[controldigitalpymes.es](https://www.controldigitalpymes.es)**
+- 📩 Contacto: forensiq.sentinel@outlook.com
 ---
 
 ## Licencia
